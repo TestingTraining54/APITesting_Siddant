@@ -1,0 +1,12 @@
+{
+    "id": 10,
+    "phone": "58365821",
+    "courses": [
+        "java",
+        "selenium"
+    ],
+    "location": "mumbai",
+    "name": "tina"
+}
+
+
